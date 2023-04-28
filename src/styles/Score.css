@@ -1,0 +1,17 @@
+.scoreboard{
+    font-size: 3rem;
+    justify-content:space-between;
+    margin: 25px;
+    
+}
+
+span{
+    margin: 25px;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(170, 162, 162);
+    
+    border-radius: 25px;
+    border-width: 55px;
+    border-color: black;
+}
